@@ -2,7 +2,7 @@
  ![Image](https://acw-group.com.hk/acw_distribution/events/VectaCorp/Images/header.gif)
     
  
-This is a sample website for Vecta Corporation giving an overview of company solutions, client testimonials and contact information.
+This is a sample webpage for Vecta Corporation giving an overview of company solutions, client testimonials and contact information.
 
 ##  **Our Solutions**
 * _**vProspect 2.0**_
